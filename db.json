@@ -1,21 +1,22 @@
 {
   "levels": [
     {
-      "id": 3,
-      "name": "ali",
-      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_1.png"
+      "order": 1,
+      "title": "tittle-1",
+      "subtitle": "tittle-1",
+      "src": "tittle-1"
     },
     {
-      "id": 3,
-      "name": "ali"
+      "order": 1,
+      "title": "ßtittle-1",
+      "subtitle": "tittle-1",
+      "src": "tittle-1"
     },
     {
-      "id": 3,
-      "name": "ali"
-    },
-    {
-      "id": 3,
-      "name": "ali"
+      "order": 1,
+      "title": "tittle-1",
+      "subtitle": "tittle-1",
+      "src": "tittle-1"
     }
   ]
 }
