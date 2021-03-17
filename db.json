@@ -1,21 +1,52 @@
 {
   "levels": [
     {
-      "id": 3,
-      "name": "ali",
-      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_1.png"
+      "id": "Level 1",
+      "level": "1",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_1.png",
+      "floatingItems": ["game"]
     },
     {
-      "id": 3,
-      "name": "ali"
+      "id": "Level 2",
+      "level": "2",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_2.png",
+      "floatingItems": ["game"]
     },
     {
-      "id": 3,
-      "name": "ali"
+      "id": "Level 3",
+      "level": "3",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_3.png",
+      "floatingItems": ["game"]
     },
     {
-      "id": 3,
-      "name": "ali"
+      "id": "Level 4",
+      "level": "4",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_4.png",
+      "floatingItems": ["game"]
+    },
+    {
+      "id": "Level 5",
+      "level": "5",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_5.png",
+      "floatingItems": ["game"]
+    },
+    {
+      "id": "Level 6",
+      "level": "6",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_6.png",
+      "floatingItems": ["game"]
+    },
+    {
+      "id": "Level 7",
+      "level": "7",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_7.png",
+      "floatingItems": ["game"]
+    },
+    {
+      "id": "Level 8",
+      "level": "8",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_8.png",
+      "floatingItems": ["game"]
     }
   ]
 }
