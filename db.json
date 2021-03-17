@@ -4,49 +4,116 @@
       "key": " ",
       "id": "Level 1",
       "level": "1",
-      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_1.png"
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/bg-images/image_1.png"
     },
     {
       "key": " ",
       "id": "Level 2",
       "level": "2",
-      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_2.png"
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/bg-images/image_2.png"
     },
     {
       "key": " ",
       "id": "Level 3",
       "level": "3",
-      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_3.png"
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/bg-images/image_3.png"
     },
     {
       "key": " ",
       "id": "Level 4",
       "level": "4",
-      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_4.png"
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/bg-images/image_4.png"
     },
     {
       "key": " ",
       "id": "Level 5",
       "level": "5",
-      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_5.png"
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/bg-images/image_5.png"
     },
     {
       "key": " ",
       "id": "Level 6",
       "level": "6",
-      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_6.png"
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/bg-images/image_6.png"
     },
     {
       "key": " ",
       "id": "Level 7",
       "level": "7",
-      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_7.png"
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/bg-images/image_7.png"
     },
     {
       "key": " ",
       "id": "Level 8",
       "level": "8",
-      "src": "https://raw.githubusercontent.com/dersec/game-api/master/images/image_8.png"
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/bg-images/image_8.png"
+    }
+  ],
+
+  "floatingItems": [
+    {
+      "key": " ",
+      "level": "1",
+      "name": "Level 1",
+      "type": "game",
+      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "position": 2
+    },
+    {
+      "key": " ",
+      "level": "2",
+      "name": "Level 2",
+      "type": "game",
+      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "position": 3
+    },
+    {
+      "key": " ",
+      "level": "3",
+      "name": "Level 3",
+      "type": "game",
+      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "position": 1
+    },
+    {
+      "key": "",
+      "level": "4",
+      "name": "Level 5",
+      "type": "game",
+      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "position": 3
+    },
+    {
+      "key": " ",
+      "level": "5",
+      "name": "Level 5",
+      "type": "game",
+      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "position": 2
+    },
+    {
+      "key": " ",
+      "level": "6",
+      "name": "Level 6",
+      "type": "game",
+      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "position": 1
+    },
+    {
+      "key": "",
+      "level": "7",
+      "name": "Level 7",
+      "type": "game",
+      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "position": 3
+    },
+    {
+      "key": "",
+      "level": "8",
+      "name": "Level 8",
+      "type": "game",
+      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "position": 2
     }
   ]
 }
