@@ -47,77 +47,87 @@
       "level": 1,
       "name": "Level 1",
       "type": "game",
-      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/button_images/btn_3.png",
       "position": 0
     },
     {
       "level": 2,
       "name": "Level 2",
       "type": "game",
-      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/button_images/btn_3.png",
+
       "position": 5
     },
     {
       "level": 2,
       "name": "Level 2",
       "type": "game",
-      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/button_images/btn_3.png",
+
       "position": 5
     },
     {
       "level": 3,
       "name": "Level 3",
       "type": "game",
-      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/button_images/btn_3.png",
+
       "position": -5
     },
     {
       "level": 4,
       "name": "Level 5",
       "type": "game",
-      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/button_images/btn_3.png",
+
       "position": 5
     },
     {
       "level": 5,
       "name": "Level 5",
       "type": "game",
-      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/button_images/btn_3.png",
+
       "position": 0
     },
     {
       "level": 5,
       "name": "Level 5",
       "type": "game",
-      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/button_images/btn_3.png",
+
       "position": 0
     },
     {
       "level": 6,
       "name": "Level 6",
       "type": "game",
-      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/button_images/btn_3.png",
+
       "position": -5
     },
     {
       "level": 7,
       "name": "Level 7",
       "type": "game",
-      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/button_images/btn_3.png",
+
       "position": 5
     },
     {
       "level": 7,
       "name": "Level 7",
       "type": "game",
-      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/button_images/btn_3.png",
+
       "position": 5
     },
     {
       "level": 8,
       "name": "Level 8",
       "type": "game",
-      "src": "https://github.com/dersec/game-api/blob/master/button_images/btn_3.png",
+      "src": "https://raw.githubusercontent.com/dersec/game-api/master/button_images/btn_3.png",
+
       "position": 0
     }
   ]
